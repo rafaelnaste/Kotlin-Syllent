@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BizBundle Required Attributes -->
+    <attr name="status_font_color" format="color|reference" />
+    <attr name="status_bg_color" format="color|reference" />
+    <attr name="navbar_font_color" format="color|reference" />
+    <attr name="navbar_bg_color" format="color|reference" />
+    <attr name="app_bg_color" format="color|reference" />
+    <attr name="fragment_bg_color" format="color|reference" />
+    <attr name="list_primary_color" format="color|reference" />
+    <attr name="list_sub_color" format="color|reference" />
+    <attr name="list_secondary_color" format="color|reference" />
+    <attr name="list_line_color" format="color|reference" />
+    <attr name="list_bg_color" format="color|reference" />
+    <attr name="primary_button_font_color" format="color|reference" />
+    <attr name="primary_button_bg_color" format="color|reference" />
+    <attr name="secondary_button_font_color" format="color|reference" />
+    <attr name="secondary_button_bg_color" format="color|reference" />
+    <attr name="notice_font_color" format="color|reference" />
+    <attr name="notice_bg_color" format="color|reference" />
+    <attr name="bg_normal_text_bt" format="reference" />
+    <attr name="app_name" format="string|reference" />
+    <attr name="is_splash_used" format="boolean" />
+    <attr name="ap_default_ssid" format="string|reference" />
+    <attr name="ap_connect_description" format="string|reference" />
+    <attr name="is_scan_support" format="boolean|reference" />
+    <attr name="is_need_blemesh_support" format="boolean|reference" />
+    <attr name="status_bg_color_75" format="color|reference" />
+    <attr name="status_bg_color_90" format="color|reference" />
+</resources>
