@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Syllent Connect</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_loading">Entrando...</string>
+    <string name="login_error">Erro no login</string>
+    <string name="login_success">Login realizado com sucesso!</string>
+    <string name="invalid_email">Email invalido</string>
+    <string name="invalid_password">Senha deve ter pelo menos 6 caracteres</string>
+
+    <!-- Main Screen -->
+    <string name="main_title">Dispositivos</string>
+    <string name="add_device">Adicionar Dispositivo</string>
+    <string name="scan_qr_code">Escanear QR Code</string>
+    <string name="home_name">Casa: %s</string>
+    <string name="no_home_found">Nenhuma casa encontrada</string>
+    <string name="loading_homes">Carregando casas...</string>
+    <string name="logout">Sair</string>
+    <string name="logout_confirm">Tem certeza que deseja sair?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Nao</string>
+
+    <!-- Device Pairing -->
+    <string name="ap_mode_ssid">SmartLife</string>
+    <string name="thing_ap_connect_description">Conecte-se a rede Wi-Fi do dispositivo para iniciar o pareamento.</string>
+
+    <!-- Errors -->
+    <string name="error_network">Erro de conexao. Verifique sua internet.</string>
+    <string name="error_unknown">Ocorreu um erro inesperado.</string>
+</resources>

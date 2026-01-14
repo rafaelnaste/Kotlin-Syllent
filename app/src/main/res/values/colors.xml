@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF5A28</color>
+    <color name="primary_dark">#E04E20</color>
+    <color name="accent">#FF5A28</color>
+
+    <!-- Theme Colors for BizBundle -->
+    <color name="thing_theme_color_m1">#FFFF5A28</color>
+    <color name="thing_theme_color_m1_1">#33FF5A28</color>
+    <color name="thing_theme_color_m1_2">#FFFF6B3E</color>
+    <color name="thing_theme_color_m1_alpha_5">#0DFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_10">#1AFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_15">#26FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_20">#33FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_25">#40FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_30">#4DFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_35">#59FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_40">#66FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_45">#73FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_50">#80FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_55">#8CFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_60">#99FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_65">#A6FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_70">#B3FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_75">#BFFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_80">#CCFF5A28</color>
+    <color name="thing_theme_color_m1_alpha_85">#D9FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_90">#E6FF5A28</color>
+    <color name="thing_theme_color_m1_alpha_95">#F2FF5A28</color>
+
+    <!-- Status Bar Colors -->
+    <color name="status_font_color">#FFFFFF</color>
+    <color name="status_bg_color">#FF5A28</color>
+    <color name="status_bg_color_75">#BFFF5A28</color>
+    <color name="status_bg_color_90">#E6FF5A28</color>
+
+    <!-- Navigation Bar Colors -->
+    <color name="navbar_font_color">#FFFFFF</color>
+    <color name="navbar_bg_color">#FF5A28</color>
+
+    <!-- App Background -->
+    <color name="app_bg_color">#F8F8F8</color>
+
+    <!-- List Colors -->
+    <color name="list_primary_color">#303030</color>
+    <color name="list_sub_color">#999999</color>
+    <color name="list_secondary_color">#999999</color>
+    <color name="list_line_color">#EEEEEE</color>
+    <color name="list_bg_color">#FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="primary_button_font_color">#FFFFFF</color>
+    <color name="primary_button_bg_color">#FF5A28</color>
+    <color name="primary_button_select_color">#FF6B3E</color>
+    <color name="secondary_button_font_color">#FF5A28</color>
+    <color name="secondary_button_bg_color">#FFFFFF</color>
+
+    <!-- Notice Colors -->
+    <color name="notice_font_color">#FFFFFF</color>
+    <color name="notice_bg_color">#FF5A28</color>
+
+    <!-- Gray Scale -->
+    <color name="gray_99">#999999</color>
+    <color name="gray_ee">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

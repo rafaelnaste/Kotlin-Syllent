@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BizBundle Compat Colors Configuration -->
+    <color name="thing_status_font_color">@color/status_font_color</color>
+    <color name="thing_status_bg_color">@color/status_bg_color</color>
+    <color name="thing_navbar_font_color">@color/navbar_font_color</color>
+    <color name="thing_navbar_bg_color">@color/navbar_bg_color</color>
+    <color name="thing_app_bg_color">@color/app_bg_color</color>
+    <color name="thing_list_primary_color">@color/list_primary_color</color>
+    <color name="thing_list_sub_color">@color/list_sub_color</color>
+    <color name="thing_list_secondary_color">@color/list_secondary_color</color>
+    <color name="thing_list_line_color">@color/list_line_color</color>
+    <color name="thing_list_bg_color">@color/list_bg_color</color>
+    <color name="thing_primary_button_font_color">@color/primary_button_font_color</color>
+    <color name="thing_primary_button_bg_color">@color/primary_button_bg_color</color>
+    <color name="thing_secondary_button_font_color">@color/secondary_button_font_color</color>
+    <color name="thing_secondary_button_bg_color">@color/secondary_button_bg_color</color>
+    <color name="thing_notice_font_color">@color/notice_font_color</color>
+    <color name="thing_notice_bg_color">@color/notice_bg_color</color>
+</resources>

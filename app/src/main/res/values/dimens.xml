@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BizBundle Required Dimensions -->
+    <dimen name="thing_mg_2">8dp</dimen>
+    <dimen name="thing_mg_4">16dp</dimen>
+    <dimen name="thing_mg_8">32dp</dimen>
+
+    <!-- Common Dimensions -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+</resources>

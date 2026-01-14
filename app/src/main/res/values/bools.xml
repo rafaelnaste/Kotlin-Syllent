@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BizBundle Feature Flags -->
+
+    <!-- Support for Bluetooth devices pairing -->
+    <bool name="is_need_ble_support">true</bool>
+
+    <!-- Support for Bluetooth Mesh devices pairing -->
+    <bool name="is_need_blemesh_support">true</bool>
+
+    <!-- Support for QR code scanning during pairing -->
+    <bool name="is_scan_support">true</bool>
+
+    <!-- Support for Wi-Fi EZ mode in auto discovery -->
+    <bool name="is_config_activator_ez">false</bool>
+</resources>
